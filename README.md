@@ -18,6 +18,10 @@ Biomedical Engineer and Data Analyst, Master's student in Biomedical Engeneering
 
 
 ⚗ **Publicações:**
+<ul>
+  <li><a href="https://pubmed.ncbi.nlm.nih.gov/34134102/">CAAos platform: an integrated platform for analysis of cerebral hemodynamics data</a></li>
+  <li><a href="https://link.springer.com/chapter/10.1007/978-3-030-70601-2_238">Evaluation and Systematization of the Transfer Function Method for Cerebral Autoregulation Assessment</a></li>
+</ul>
 
 <div> 
   <a href = "mailto:reromanelli.c@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
