@@ -13,6 +13,7 @@ Biomedical Engineer and Data Analyst, Master's student in Biomedical Engeneering
   <li><a href="https://github.com/Renata-Romanelli/Challenge_Churn_rate">Churn Rate</a></li>
   <li><a href="https://github.com/Renata-Romanelli/Modelos_Machine_Learning">Machine Learning Models</a></li>
   <li><a href="https://github.com/Renata-Romanelli/Power-BI">Power BI projects</a></li>
+  <li><a href="https://github.com/Renata-Romanelli/Data_immersion_drug_discovery">Imersão dados: Drug discovery</a></li>
 </ul>
 
 
