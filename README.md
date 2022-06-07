@@ -1,6 +1,6 @@
 ## Hi, I’m @Renata-Romanelli
 
-Data analyst, Master's student in Biomedical Engeneering, graduated in Biomedical Engineering and Bachelor of Science and Technology from Federal University of ABC. During my graduation, my academic research was focused on contributing to the development of an Open Source software for the calculus of Cerebral Autoregulation, in Python language (CAAos Platform). In the master's degree, my academic research is focused on the analysis of data from this same platform and its clinical application.
+Biomedical Engineer and Data Analyst, Master's student in Biomedical Engeneering, graduated in Biomedical Engineering and Bachelor of Science and Technology from Federal University of ABC. During my graduation, my academic research was focused on contributing to the development of an Open Source software for the calculus of Cerebral Autoregulation, in Python language (CAAos Platform). In the master's degree, my academic research is focused on the analysis of data from this same platform and its clinical application.
 
 💻 **CAAos Platform:**
 <ul>
