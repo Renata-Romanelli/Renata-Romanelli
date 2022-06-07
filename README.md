@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Renata-Romanelli
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 📫 i'm a masters student at Federal University of ABC 
+## Hi, I’m @Renata-Romanelli
 
-You can reach me by my e-mail: reromanelli.c@gmail.com
+Data analyst, Master's student in Biomedical Engeneering, graduated in Biomedical Engineering and Bachelor of Science and Technology from Federal University of ABC. During my graduation, my academic research was focused on contributing to the development of an Open Source software for the calculus of Cerebral Autoregulation, in Python language (CAAos Platform). In the master's degree, my academic research is focused on the analysis of data from this same platform and its clinical application.
 
-<!---
-Renata-Romanelli/Renata-Romanelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **CAAos Platform:**
+<ul>
+     <a href="https://github.com/Renata-Romanelli/CAAos-Platform">CAAos Platform</a>
+</ul>
+
+📊 **Data Science Projects:**
+
+<ul>
+  <li><a href="https://github.com/Renata-Romanelli/Challenge_Churn_rate">Churn Rate</a></li>
+  <li><a href="https://github.com/Renata-Romanelli/Modelos_Machine_Learning">Machine Learning Models</a></li>
+  <li><a href="https://github.com/Renata-Romanelli/Power-BI">Power BI projects</a></li>
+</ul>
+
+
+⚗ **Publicações:**
+
+<div> 
+  <a href = "mailto:reromanelli.c@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+</div>
