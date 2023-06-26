@@ -12,8 +12,6 @@ Currently, I am focused on analyzing data from individuals with stroke and hyper
 
 I am always seeking opportunities to apply my knowledge and contribute to advancements in the field of Biomedical Engineering. If you are interested in connecting or collaborating on related projects, feel free to reach out!
 
-#BiomedicalEngineering #ScientificResearch #CerebralHemodynamics #CerebralAutoregulation #UFABCMasters
-
 💻 **CAAos Platform:**
 <ul>
      <a href="https://github.com/Renata-Romanelli/CAAos-Platform">CAAos Platform</a>
