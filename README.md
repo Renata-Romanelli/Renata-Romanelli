@@ -1,6 +1,18 @@
 ## Hi, I’m @Renata-Romanelli
 
-Biomedical Engineer and Data Analyst, Master's student in Biomedical Engeneering, graduated in Biomedical Engineering and Bachelor of Science and Technology from Federal University of ABC. During my graduation, my academic research was focused on contributing to the development of an Open Source software for the calculus of Cerebral Autoregulation, in Python language (CAAos Platform). In the master's degree, my academic research is focused on the analysis of data from this same platform and its clinical application.
+Biomedical Engineering
+
+I graduated in Science and Technology in 2020 and Biomedical Engineering in 2021 from the Federal University of ABC (UFABC), and I am currently pursuing a master's degree in Biomedical Engineering at UFABC with a research scholarship from FAPESP until 2023.
+
+My research focus is on cerebral hemodynamics, with an emphasis on cerebral autoregulation, using biomedical data and signal analysis.
+
+During my undergraduate studies, I had the opportunity to conduct research with a FAPESP research scholarship in 2020, which was extended until 2021. In this research, I contributed to the development of the CAAos platform, an open-source platform for calculating cerebral autoregulation. (Documentation link: https://caaosplatform.github.io/CAAos/index.html)
+
+Currently, I am focused on analyzing data from individuals with stroke and hypertension for the development of my master's thesis.
+
+I am always seeking opportunities to apply my knowledge and contribute to advancements in the field of Biomedical Engineering. If you are interested in connecting or collaborating on related projects, feel free to reach out!
+
+#BiomedicalEngineering #ScientificResearch #CerebralHemodynamics #CerebralAutoregulation #UFABCMasters
 
 💻 **CAAos Platform:**
 <ul>
