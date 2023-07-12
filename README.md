@@ -31,6 +31,12 @@ I am always seeking opportunities to apply my knowledge and contribute to advanc
 <ul>
   <li><a href="https://pubmed.ncbi.nlm.nih.gov/34134102/">CAAos platform: an integrated platform for analysis of cerebral hemodynamics data</a></li>
   <li><a href="https://link.springer.com/chapter/10.1007/978-3-030-70601-2_238">Evaluation and Systematization of the Transfer Function Method for Cerebral Autoregulation Assessment</a></li>
+     <li>Prediction of stroke diagnosis through a classification model on cerebral autoregulation: a preliminary study. Computing in Cardiology 2023. April, 2023. Accepted paper for presentation in congress. </a></li>
+      <li>Comparison of Cerebral Autoregulation in Patients with Mild and Severe Arterial Hypertension. CLAIB & CBEB 2022. Accepted for publication paper in IFMBE Proceeding in february, 7. 2023.   </a></li>
+      <li>K-Nearest Neighbors algorithm for Predicting Cerebral Autoregulation Impairment in Patients with Acute Ischemic Stroke. IX Latin American Congress of Biomedical Engineering and XXVIII Brazilian Congress of Biomedical Engineering (CLAIB & CBEB). October, 2022, Florianópolis, SC – Brazil. Accepted paper with  video-poster presentation.
+ </a></li>
+     <li>Open-Source Platform for Cerebral Autoregulation Assessment (CAAos platform): Platform Configuration and Usability. (CARNet 2022), 11th International Congress on Cerebral Hemodynamics Regulation - Cerebral Autoregulation Network (CARNet meeting), October, 2022. Leicester, UK. Accepted abstract for video-poster presentation.
+ </a></li>
 </ul>
 
 <div> 
