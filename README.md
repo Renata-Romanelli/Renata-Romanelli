@@ -22,6 +22,7 @@ I am always seeking opportunities to apply my knowledge and contribute to advanc
 <ul>
   <li><a href="https://github.com/Renata-Romanelli/Challenge_Churn_rate">Churn Rate</a></li>
   <li><a href="https://github.com/Renata-Romanelli/Modelos_Machine_Learning">Machine Learning Models</a></li>
+  <li><a href="https://github.com/Renata-Romanelli/ML_stroke_prediction">Machine Learning Models for predction of Stroke based on Cerebral Autoregulation results</a></li>   
   <li><a href="https://github.com/Renata-Romanelli/Power-BI">Power BI projects</a></li>
   <li><a href="https://github.com/Renata-Romanelli/Data_immersion_drug_discovery">Imersão dados: Drug discovery</a></li>
 </ul>
