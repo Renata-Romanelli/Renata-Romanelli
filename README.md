@@ -1,14 +1,12 @@
 ## Hi, I’m @Renata-Romanelli
 
-Biomedical Engineering
+Master in Biomedical Engineering
 
-I graduated in Science and Technology in 2020 and Biomedical Engineering in 2021 from the Federal University of ABC (UFABC), and I am currently pursuing a master's degree in Biomedical Engineering at UFABC with a research scholarship from FAPESP until 2023.
+I graduated in Science and Technology in 2020 and Biomedical Engineering in 2021 from the Federal University of ABC (UFABC), and master's degree in Biomedical Engineering at UFABC. Currently working as a Data Scientist.
 
 My research focus is on cerebral hemodynamics, with an emphasis on cerebral autoregulation, using biomedical data and signal analysis.
 
 During my undergraduate studies, I had the opportunity to conduct research with a FAPESP research scholarship in 2020, which was extended until 2021. In this research, I contributed to the development of the CAAos platform, an open-source platform for calculating cerebral autoregulation. (Documentation link: https://caaosplatform.github.io/CAAos/index.html)
-
-Currently, I am focused on analyzing data from individuals with stroke and hypertension for the development of my master's thesis.
 
 I am always seeking opportunities to apply my knowledge and contribute to advancements in the field of Biomedical Engineering. If you are interested in connecting or collaborating on related projects, feel free to reach out!
 
@@ -20,6 +18,7 @@ I am always seeking opportunities to apply my knowledge and contribute to advanc
 📊 **Data Science Projects:**
 
 <ul>
+  <li><a href="https://github.com/Renata-Romanelli/Krish_mlproject">End-to-end ML project</a></li>
   <li><a href="https://github.com/Renata-Romanelli/Challenge_Churn_rate">Churn Rate</a></li>
   <li><a href="https://github.com/Renata-Romanelli/Modelos_Machine_Learning">Machine Learning Models</a></li>
   <li><a href="https://github.com/Renata-Romanelli/ML_stroke_prediction">Machine Learning Models for predction of Stroke based on Cerebral Autoregulation results</a></li>   
