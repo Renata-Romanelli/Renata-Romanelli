@@ -20,6 +20,7 @@ I am always seeking opportunities to apply my knowledge and contribute to advanc
 <ul>
 
   <li><a href="https://github.com/Renata-Romanelli/TensorFlow-Keras"> Neural Networks with TensorFlow Keras</a></li>
+  <li><a href="https://github.com/Renata-Romanelli/RAG-pipeline"> RAG pipeline with Langchain </a></li>
   <li><a href="https://github.com/Renata-Romanelli/Krish_mlproject">End-to-end ML project</a></li>
   <li><a href="https://github.com/Renata-Romanelli/Challenge_Churn_rate">Churn Rate</a></li>
   <li><a href="https://github.com/Renata-Romanelli/Modelos_Machine_Learning">Machine Learning Models</a></li>
