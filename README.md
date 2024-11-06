@@ -1,14 +1,14 @@
 ## Hi, I’m @Renata-Romanelli
 
-Master in Biomedical Engineering
+Master in Biomedical Engineering and Data Scientist
 
-I graduated in Science and Technology in 2020 and Biomedical Engineering in 2021 from the Federal University of ABC (UFABC), and master's degree in Biomedical Engineering at UFABC. Currently working as a Data Scientist.
+I graduated in Science and Technology in 2020 and Biomedical Engineering in 2021 from the Federal University of ABC (UFABC), and master's degree in Biomedical Engineering at UFABC. Currently working as a Data Scientist Sírio Labanês Hospital and persuing a PhD in Informational Engineering.
 
-My research focus is on cerebral hemodynamics, with an emphasis on cerebral autoregulation, using biomedical data and signal analysis.
+My research focus is on signal and image processing and application of machine learning algorithms in cerebral hemodynamics and cardiovascular fields.
 
-During my undergraduate studies, I had the opportunity to conduct research with a FAPESP research scholarship in 2020, which was extended until 2021. In this research, I contributed to the development of the CAAos platform, an open-source platform for calculating cerebral autoregulation. (Documentation link: https://caaosplatform.github.io/CAAos/index.html)
+During my undergraduate and master studies, I had the opportunity to conduct research with a FAPESP research scholarship in 2020, which was extended until 2023. In this research, I contributed to the development of the CAAos platform, an open-source platform for calculating cerebral autoregulation. (Documentation link: https://caaosplatform.github.io/CAAos/index.html)
 
-I am always seeking opportunities to apply my knowledge and contribute to advancements in the field of Biomedical Engineering. If you are interested in connecting or collaborating on related projects, feel free to reach out!
+I am always seeking opportunities to apply my knowledge and contribute to advancements in the field of Biomedical Engineering and Data Science. If you are interested in connecting or collaborating on related projects, feel free to reach out!
 
 💻 **CAAos Platform:**
 <ul>
@@ -18,6 +18,8 @@ I am always seeking opportunities to apply my knowledge and contribute to advanc
 📊 **Data Science Projects:**
 
 <ul>
+
+  <li><a href="https://github.com/Renata-Romanelli/TensorFlow-Keras"> Neural Networks with TensorFlow Keras</a></li>
   <li><a href="https://github.com/Renata-Romanelli/Krish_mlproject">End-to-end ML project</a></li>
   <li><a href="https://github.com/Renata-Romanelli/Challenge_Churn_rate">Churn Rate</a></li>
   <li><a href="https://github.com/Renata-Romanelli/Modelos_Machine_Learning">Machine Learning Models</a></li>
